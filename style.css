@@ -1,0 +1,47 @@
+/*! UNIVERSAL RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*! GENERAL STYLES */
+body {
+    font-family: '[Outfit](https://fonts.google.com/specimen/Outfit)';
+    height: 100vh;
+    padding: 20px;
+    background-color: #D6E1F0;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+div {
+    background-color: whitesmoke;
+    padding: 10px;
+    max-width: 300px;
+    padding-bottom: 40px;
+}
+
+div, img {
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+h1, p {
+    padding: 0px 10px;
+}
+
+
